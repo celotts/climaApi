@@ -24,7 +24,7 @@
 		"cors": "^2.8.5",
 		"express": "^4.17.1",
 		"forecastio": "^2.0.0",
-		"redis": "^2.8.0",
+		"redis": "^3.1.1",
 		"socket.io": "^2.3.0"
 	},
 	"devDependencies": {
